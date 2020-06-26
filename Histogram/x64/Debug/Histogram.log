@@ -1,0 +1,5 @@
+﻿  Histogram.cpp
+C:\Users\Piotr\source\repos\Histogram\Histogram\Histogram.cpp(87): warning C4715: 'morfologie': not all control paths return a value
+  entro.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  entro.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Histogram.vcxproj -> C:\Users\Piotr\source\repos\Histogram\x64\Debug\Histogram.exe
